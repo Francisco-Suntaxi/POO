@@ -1,7 +1,8 @@
 /*Programa: Hola Mundo
-Autor: Ricardo Grijalva
+Autor: Francisco Suntaxi
 Fecha: 23/05/2020
 Editador por: Nataly Morales(version 1.1)
+Descripcion: Pedir un mensaje y mostrarlo por pantalla.
 Version: 1.1*/
 #include <iostream>
 #include <string.h>
